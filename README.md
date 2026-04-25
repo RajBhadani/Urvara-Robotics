@@ -269,7 +269,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 |---|---|
 | 📍 Location | Patna, Bihar → Pan India |
 | 🐙 GitHub | [@urvara-robotics](https://github.com/urvara-robotics) |
-| 📧 Email | hello@urvara-robotics.in |
+| 📧 Email | urvara.robotics@gmail.com |
 | 💬 WhatsApp Community | [Join Here](#) |
 
 ---
